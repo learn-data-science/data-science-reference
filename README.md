@@ -21,4 +21,4 @@ You can find free resources on data science and machine learning in this page.
 
 ## Programming Language
 * [R Cookbook: Proven Recipes for Data Analysis, Statisitcs and Graphics, 2nd Edition](https://rc2e.com/)
-*
+
