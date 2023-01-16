@@ -19,3 +19,6 @@ You can find free resources on data science and machine learning in this page.
 ## Deep Learning
 * [Dive Into Deep Learning](http://d2l.ai/chapter_preface/index.html)
 
+## Programming Language
+* [R Cookbook: Proven Recipes for Data Analysis, Statisitcs and Graphics, 2nd Edition](https://rc2e.com/)
+*
